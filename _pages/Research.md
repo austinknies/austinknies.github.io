@@ -27,6 +27,10 @@ I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana.
 
 ## Working Papers
 
+- "Healthcare Visit Modality Among Older Adults: Telehealth and Subsequent Emergency Department Use" (Latest Draft: *November 2023*)
+
+  Co-authors: Kosali Simon, Emily Hayden
+
 - ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2023.pdf) (Latest Draft: *September 2023*)
   
 ## Works in Progress
