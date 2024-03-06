@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-Hi! My name is Austin Knies. I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana. Upon completing my degree in spring 2024, I will be joining Abt Global as a Health Economics Senior Analyst. As a researcher, my interests are in applied microeconomics and specifically in health economics and information frictions. My work focuses on the role of information in health care in settings such as telehealth and telemedicine usage, price transparency regulation, and choice of insurance coverage.
+Hi! My name is Austin Knies. I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana. Upon completing my degree in spring 2024, I will be joining Abt Global as a Health Economics Senior Analyst. 
 
 I grew up in West Monroe, Louisiana, and I received a B.S. in Mathematics and a B.S. in Business Economics from Louisiana Tech University ('17). 
 
