@@ -32,3 +32,5 @@ A fun fact about me: prior to starting a Ph.D., I spent time performing, booking
 <img src="/assets/images/aptwf.jpg" alt="APxTWF" width="450"/> <img src="/assets/images/brofest.jpg" alt="Brofest" width="450"/> <br/>
 <br/> 
 <img src="/assets/images/monroe.jpg" alt="Oxford" width="900"/>
+<br/> 
+<img src="/assets/images/whataburger.jpg" alt="TWFxSPxDD" width="450"/>
