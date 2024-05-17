@@ -9,11 +9,11 @@ My research interests are in applied microeconomics and specifically in health e
 
 ## Publications
 
-- "Healthcare Visit Modality Among Older Adults: Telehealth and Subsequent Emergency Department Use"
+- ["Healthcare Visit Modality Among Older Adults: Telehealth and Subsequent Emergency Department Use"](https://doi.org/10.1089/tmr.2024.0002) (2024)
   
   Co-authors: Kosali Simon, Emily Hayden
 
-  Forthcoming at **Telemedicine Reports**, Accepted March 2024 
+  **Telemedicine Reports, Vol. 5, No. 1, 2024, Pages 152-157**
   
 - ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://doi.org/10.1016/j.trb.2021.10.011) (2022)
 
