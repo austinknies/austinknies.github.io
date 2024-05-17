@@ -51,10 +51,6 @@ My research interests are in applied microeconomics and specifically in health e
 
    Co-authors: Volodymyr Lugovskyy, Patrick Shih
 
-## Experience
-
-- Research Assistant for Angela Campbell, School of Public Health, Indiana University (*Summer 2023 - Present*)
-
 ## Additional Projects
 
 - ["Fraud Detection with Medicare Provider Data"](https://github.com/austinknies/fall22-bloom/blob/main/Executive%20Summary.pdf) (*2022*)
