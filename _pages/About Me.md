@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-Welcome to my website! My name is Austin Knies. In summer 2024, I will be joining Abt Global as a Health Economics Senior Analyst. I received a Ph.D. in Economics from Indiana University in the spring of 2024. My research interests are in applied microeconomics and specifically in health economics and information frictions. In my work, I've focused on the role of information in health care in settings such as telehealth and telemedicine usage, price transparency regulation, and choice of insurance coverage.
+Welcome to my website! My name is Austin Knies. I am a Health Economics Senior Analyst at Abt Global as of June 2024. In the spring of 2024, I graduated as an Economics Ph.D. candidate from Indiana University. My research in applied microeconomics and health economics has focused on the role of information in health care in settings such as telehealth and telemedicine usage, maternal and child health, price transparency regulation, and choice of Medicare coverage.
 
 I grew up in West Monroe, Louisiana, and I received a B.S. in Mathematics and a B.S. in Business Economics from Louisiana Tech University in 2017. 
 
@@ -13,9 +13,9 @@ I grew up in West Monroe, Louisiana, and I received a B.S. in Mathematics and a 
 <br/> 
 <img src="/assets/images/lake.jpg" alt="Lake" width="900"/>
 
-Outside of work, I love spending time with my wife Hannah, who is a middle school Language Arts/STEAM teacher and fabrication lab facilitator, and my dog Olan, who is asleep on the couch. Along with being dog parents, my wife and I are also foster parents and have worked with teenagers in foster care.
+Outside of work, I love spending time with my wife Hannah, who is a middle school Language Arts/STEAM teacher and fabrication lab facilitator, and my dog Olan, who is asleep on the couch. Along with being dog parents, we have also been foster parents and have worked with teenagers in foster care.
 
-I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying new foods. I'm a big fan of NBA basketball and root for the Indiana Pacers. 
+I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying new foods. I'm a big fan of professional basketball and root for the Indiana Pacers and Fever. 
 
 <img src="/assets/images/olan.jpg" alt="Olan" width="300"/> <img src="/assets/images/olan-1.jpg" alt="Olan" width="300"/> <img src="/assets/images/olan-2.jpg" alt="Olan" width="300"/> <br/>
 
