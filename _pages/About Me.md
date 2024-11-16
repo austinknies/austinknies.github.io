@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-Welcome to my website! My name is Austin Knies. I am a Health Economics Senior Analyst at Abt Global as of June 2024. In the spring of 2024, I graduated as an Economics Ph.D. candidate from Indiana University. My research in applied microeconomics and health economics has focused on the role of information in health care in settings such as telehealth and telemedicine usage, maternal and child health, price transparency regulation, and choice of Medicare coverage.
+Welcome to my website! My name is Austin Knies. I am a Health Economics Senior Analyst at Abt Global, where my work on health care policy primarily involves Medicare and Medicaid model evaluation. Prior to joining Abt Global, I obtained a Ph.D. in Economics from Indiana University in the spring of 2024, where my research in applied microeconomics and health economics focused on the role of information constraints in health care choices. I have collaborated with scholars in economics, public policy, public health, and medicine on research ranging from improving health equity in maternal and child health to refining health care access and delivery for older adults. 
 
 I grew up in West Monroe, Louisiana, and I received a B.S. in Mathematics and a B.S. in Business Economics from Louisiana Tech University in 2017. 
 
@@ -19,7 +19,7 @@ I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying ne
 
 <img src="/assets/images/olan.jpg" alt="Olan" width="300"/> <img src="/assets/images/olan-1.jpg" alt="Olan" width="300"/> <img src="/assets/images/olan-2.jpg" alt="Olan" width="300"/> <br/>
 
-A fun fact about me: prior to starting a Ph.D., I spent time performing, booking, and promoting shows in the DIY music scene in north Louisiana. Doing this for several years shaped who I am as a person in a variety of ways, and so I really treasure the memories from this part of my life.
+Prior to starting a Ph.D., I spent time performing, booking, and promoting shows in the DIY music scene in north Louisiana. Doing this for several years shaped who I am as a person in a variety of ways, and so I really treasure the memories from this part of my life.
 
 <img src="/assets/images/oxford.jpg" alt="Monroe" width="900"/> <br/> 
 <br/> 
