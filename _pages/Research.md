@@ -5,8 +5,6 @@ classes: wide
 
 ---
 
-My research in applied microeconomics and health economics has focused on the role of information in health care in settings such as telehealth and telemedicine usage, maternal and child health, price transparency regulation, and choice of Medicare coverage.
-
 ## Publications
 
 - ["Healthcare Visit Modality Among Older Adults: Telehealth and Subsequent Emergency Department Use"](https://doi.org/10.1089/tmr.2024.0002) (2024)
